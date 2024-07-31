@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-|## ⭐ Informações sobre minha conta GitHub
-  !GitHub Stats [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--
 **reispoli/reispoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
